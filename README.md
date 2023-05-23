@@ -10,7 +10,7 @@ The problem is to cut a rectangle `R` of dimensions `L` (length)  and `W` (width
 	- *There must be at least two parts*
 - `0 < W ≤ L`
 	- *The width is smaller than the length of `R`*
-- `0 < c.x < W` and `0 < c.y < L`
+- `0 < c.x < L` and `0 < c.y < W`
 	- *The center `C` is inside `R`*
 - `∀ i ∈ [1, N], P(i) ⊂ R`
 	- *Each part must be inside `R`*
