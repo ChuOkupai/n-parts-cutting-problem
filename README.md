@@ -120,7 +120,7 @@ python3 cli.py 100 60 3
 
 #### 🎨 GUI version
 
-- ⚠️ This version requires [PyQt6](https://pypi.org/project/PyQt6/) to be installed.
+- ⚠️ This version requires [PySide6](https://pypi.org/project/PySide6) to be installed.
 
 The GUI version can be run with the following command:
 ```bash
