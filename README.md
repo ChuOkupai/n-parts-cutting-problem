@@ -1,7 +1,7 @@
 # ✂️ Cutting a rectangle into parts of equal area
 ## 💭 Introduction
 
-This small POC has been developed to solve a problem from a friend of mine. He was working on a game that can be played by teams of players on a rectangular map. He ask me how could he spawn the teams on the map by preserving the balance of the game. So the first idea that came to my mind was to cut the map into parts of equal area and then spawn the teams on these parts. This is how I came up with this problem and I thought it would be interesting to explain the approach I used to solve it, as it is not a particularly difficult problem but it is still fun to solve.
+This small POC has been developed to solve a problem from a friend of mine. He was working on a game that can be played by teams of players on a rectangular map. He asked me how could he spawn the teams on the map by preserving the balance of the game. So the first idea that came to my mind was to cut the map into parts of equal area and then spawn the teams on these parts. This is how I came up with this problem and I thought it would be interesting to explain the approach I used to solve it, as it is not a particularly difficult problem, but it is still fun to solve.
 
 ## 🧩 Problem statement
 
